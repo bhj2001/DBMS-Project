@@ -1,0 +1,46 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 4e346f16-c595-43b3-8557-d28daa97cb871571047512
+
+Date =>  14-10-2019
+
+Client name => Leela Pharmacy Enterprises
+
+Order Summary
+
+-------------
+
+medical bandage    11
+
+
+brufien tablets    23
+
+
+crocin    34
+
+
+Antacid liquid    45
+
+
+Detol    12
+
+
+injection    23
+
+
+Himalaya    23
+
+
+paracetamol tablets    34
+
+
+sleeping pill    45
+
+
+paracetamol    21
+
+------------------------
+
+Total                271

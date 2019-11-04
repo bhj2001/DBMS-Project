@@ -1,0 +1,34 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 20a57a8e-2e2b-4961-98f9-07fd3088763c1571042645
+
+Date =>  14-10-2019
+
+Client name => Sharma Medical Shop
+
+Order Summary
+
+-------------
+
+medical bandage    11
+
+
+Antacid liquid    90
+
+
+Detol    84
+
+
+injection    92
+
+
+Himalaya    115
+
+
+paracetamol tablets    34
+
+------------------------
+
+Total                426

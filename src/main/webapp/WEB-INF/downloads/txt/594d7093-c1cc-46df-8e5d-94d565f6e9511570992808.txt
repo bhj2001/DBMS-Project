@@ -1,0 +1,19 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 594d7093-c1cc-46df-8e5d-94d565f6e9511570992808
+
+Date =>  14-10-2019
+
+Client name => ab mittal
+
+Order Summary
+
+-------------
+
+crocin    60
+
+------------------------
+
+Total                60

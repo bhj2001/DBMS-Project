@@ -1,0 +1,25 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => c6e059fa-585f-4f39-aed2-f3dbed82beca1570958048
+
+Date =>  13-10-2019
+
+Client name => aladin mf
+
+Order Summary
+
+-------------
+
+crocin    180
+
+
+sleeping pill    75
+
+
+paracetamol    500
+
+------------------------
+
+Total                755

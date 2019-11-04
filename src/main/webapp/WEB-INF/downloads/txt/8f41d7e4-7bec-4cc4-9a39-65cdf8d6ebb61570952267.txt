@@ -1,0 +1,28 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 8f41d7e4-7bec-4cc4-9a39-65cdf8d6ebb61570952267
+
+Date =>  13-10-2019
+
+Client name => 134
+
+Order Summary
+
+-------------
+
+crocin    240
+
+
+Detol    87
+
+
+injection    600
+
+
+paracetamol    100
+
+------------------------
+
+Total                1027

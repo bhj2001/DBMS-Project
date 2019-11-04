@@ -1,0 +1,19 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => ccc4e68e-cf0b-4f22-9e76-42c34b24b4cd1570981324
+
+Date =>  13-10-2019
+
+Client name => aladin mf
+
+Order Summary
+
+-------------
+
+crocin    60
+
+------------------------
+
+Total                60

@@ -1,0 +1,28 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => c0641cd9-2c84-4212-9b15-d2eff26221991570953011
+
+Date =>  13-10-2019
+
+Client name => abc med store
+
+Order Summary
+
+-------------
+
+crocin    180
+
+
+Detol    87
+
+
+injection    400
+
+
+paracetamol    100
+
+------------------------
+
+Total                767

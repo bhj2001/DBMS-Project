@@ -1,0 +1,28 @@
+Somnath Sevashram
+------------------
+
+
+Invoice for order => aedb9cf8-4954-46bb-ac4d-1099475fbc251570949882
+
+Date =>  13-10-2019
+
+Client name => gennady
+
+Order Summary
+
+-------------
+
+crocin    180
+
+
+Detol    87
+
+
+injection    200
+
+
+paracetamol    100
+
+------------------------
+
+Total                567

@@ -1,0 +1,46 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 07ea5fb0-fa78-40a7-b0f6-cb0c34de0b2f1571042549
+
+Date =>  14-10-2019
+
+Client name => Sharma Medical Shop
+
+Order Summary
+
+-------------
+
+medical bandage    11
+
+
+brufien tablets    23
+
+
+crocin    34
+
+
+Antacid liquid    45
+
+
+Detol    12
+
+
+injection    23
+
+
+Himalaya    23
+
+
+paracetamol tablets    34
+
+
+sleeping pill    45
+
+
+paracetamol    21
+
+------------------------
+
+Total                271

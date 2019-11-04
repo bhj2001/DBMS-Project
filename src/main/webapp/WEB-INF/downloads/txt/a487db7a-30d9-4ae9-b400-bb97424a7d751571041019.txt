@@ -1,0 +1,37 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => a487db7a-30d9-4ae9-b400-bb97424a7d751571041019
+
+Date =>  14-10-2019
+
+Client name => Shyamu Lal Prasad Medical Store
+
+Order Summary
+
+-------------
+
+medical bandage    8
+
+
+brufien tablets    54
+
+
+crocin    32
+
+
+Detol    105
+
+
+injection    72
+
+
+sleeping pill    100
+
+
+paracetamol    36
+
+------------------------
+
+Total                407

@@ -1,0 +1,34 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 03353e36-7e5c-4119-a626-2ae17d2513a21570998856
+
+Date =>  14-10-2019
+
+Client name => gennady
+
+Order Summary
+
+-------------
+
+brufien tablets    106
+
+
+crocin    180
+
+
+Detol    87
+
+
+injection    600
+
+
+sleeping pill    75
+
+
+paracetamol    200
+
+------------------------
+
+Total                1248

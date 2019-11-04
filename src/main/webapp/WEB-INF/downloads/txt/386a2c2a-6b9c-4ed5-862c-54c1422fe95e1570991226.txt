@@ -1,0 +1,31 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 386a2c2a-6b9c-4ed5-862c-54c1422fe95e1570991226
+
+Date =>  13-10-2019
+
+Client name => ab mittal
+
+Order Summary
+
+-------------
+
+crocin    240
+
+
+Detol    87
+
+
+injection    1000
+
+
+sleeping pill    75
+
+
+paracetamol    300
+
+------------------------
+
+Total                1702

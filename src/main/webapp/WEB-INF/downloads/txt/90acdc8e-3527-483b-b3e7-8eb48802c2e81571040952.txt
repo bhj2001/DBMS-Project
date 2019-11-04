@@ -1,0 +1,31 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 90acdc8e-3527-483b-b3e7-8eb48802c2e81571040952
+
+Date =>  14-10-2019
+
+Client name => Shyamu Lal Prasad Medical Store
+
+Order Summary
+
+-------------
+
+medical bandage    16
+
+
+crocin    96
+
+
+injection    144
+
+
+paracetamol tablets    21
+
+
+paracetamol    48
+
+------------------------
+
+Total                325

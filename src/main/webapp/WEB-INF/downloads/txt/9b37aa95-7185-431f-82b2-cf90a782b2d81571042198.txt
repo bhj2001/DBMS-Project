@@ -1,0 +1,28 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 9b37aa95-7185-431f-82b2-cf90a782b2d81571042198
+
+Date =>  14-10-2019
+
+Client name => Leela Pharmacy Enterprises
+
+Order Summary
+
+-------------
+
+crocin    34
+
+
+paracetamol tablets    102
+
+
+sleeping pill    450
+
+
+paracetamol    42
+
+------------------------
+
+Total                628

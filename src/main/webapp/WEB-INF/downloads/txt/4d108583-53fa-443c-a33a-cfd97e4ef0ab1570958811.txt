@@ -1,0 +1,31 @@
+Sunil Wholesale Pharmacy
+------------------
+
+
+Invoice for order => 4d108583-53fa-443c-a33a-cfd97e4ef0ab1570958811
+
+Date =>  13-10-2019
+
+Client name => gennady
+
+Order Summary
+
+-------------
+
+crocin    600
+
+
+Detol    290
+
+
+injection    2000
+
+
+sleeping pill    250
+
+
+paracetamol    1000
+
+------------------------
+
+Total                4140
